@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasetavares&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b3ff&bg_color=ffffff" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasetavares&bg_color=ffffff&color=00b3ff&line=1f13cd&point=00b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&labelColor=ffffff)&nbsp;
