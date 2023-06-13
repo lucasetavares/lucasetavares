@@ -1,11 +1,11 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Lucas+Tavares;Tenho+23+anos+;Sou+do+Brasil!;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pituatu&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b3ff&text_color=00b3ff&bg_color=ffffff" alt="Lucas Tavares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pituatu&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b3ff&bg_color=ffffff" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasetavares&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b3ff&text_color=00b3ff&bg_color=ffffff" alt="Lucas Tavares github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasetavares&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b3ff&bg_color=ffffff" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pituatu&bg_color=ffffff&color=00b3ff&line=1f13cd&point=00b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasetavares&bg_color=ffffff&color=00b3ff&line=1f13cd&point=00b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&labelColor=ffffff)&nbsp;
