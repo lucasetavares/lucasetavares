@@ -5,8 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasetavares&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b3ff&bg_color=ffffff" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasetavares)](https://github.com/lucasetavares/github-readme-activity-graph)
-
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&labelColor=ffffff)&nbsp;
 
